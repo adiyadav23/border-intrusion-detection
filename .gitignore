@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Project data (private / large / generated)
+detections.db
+evidence/
+*.mp4
+*.avi
+*.mov
+yolov8n.pt
+*.pt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
